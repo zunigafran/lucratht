@@ -16,10 +16,12 @@ To set up and run this application locally, follow these steps:
 
 2. **Install Dependencies**:
 
-   ```pip install -r requirements.txt
+   ```
+   pip install -r requirements.txt
 
 3. **Set Environment Variables**:
    If you haven't already, set your OpenAI API key as an environment variable:
 
-   ```export OPENAI_API_KEY="your_openai_api_key_here"
+   ```
+   export OPENAI_API_KEY="your_openai_api_key_here"
 
