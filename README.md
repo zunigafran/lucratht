@@ -23,4 +23,6 @@ To set up and run this application locally, follow these steps:
 
    ```
    export OPENAI_API_KEY="your_openai_api_key_here"
-
+   ```
+   
+4. **Run the Application**:
