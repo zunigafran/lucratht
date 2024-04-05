@@ -13,11 +13,14 @@ To set up and run this application locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/nlp-application.git
    cd nlp-application
+   ```
 
 2. **Install Dependencies**:
 
    ```
    pip install -r requirements.txt
+   ```
+   
 3. **Set Environment Variables**:
    If you haven't already, set your OpenAI API key as an environment variable:
 
@@ -26,3 +29,9 @@ To set up and run this application locally, follow these steps:
    ```
    
 4. **Run the Application**:
+   ```
+   python run.py
+   ```
+   The application will start running on http://localhost:5000/.
+
+
